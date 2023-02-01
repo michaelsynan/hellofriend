@@ -20,6 +20,11 @@ module.exports = {
       fontFamily: {
         sans: ["Inter", "sans-serif"],
     },
+        colors: {
+      'purp': {
+        DEFAULT: '#5f30e2'
+      }
+    },
   },
   plugins: [],
 }

@@ -23,9 +23,9 @@
       <div class="mt-8 lg:mt-0 lg:ml-8">
         <form class="sm:flex">
           <label for="email-address" class="sr-only">Email address</label>
-          <input id="email-address" name="email-address" type="email" autocomplete="email" required="" class="w-full border border-transparent px-5 py-3 placeholder-gray-500 focus:border-white focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 sm:max-w-xs" placeholder="Enter your email" />
+          <input id="email-address" name="email-address" type="email" autocomplete="email" required="" class="w-full border border-transparent px-5 py-3 placeholder-gray-500 focus:border-white focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 sm:max-w-xs rounded-lg" placeholder="Enter your email" />
           <div class="mt-3 shadow sm:mt-0 sm:ml-3 sm:flex-shrink-0">
-            <button type="submit" class="flex w-full items-center justify-center border border-transparent bg-rose-800 px-5 py-3 text-base font-medium text-white hover:bg-rose-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-800">Notify me</button>
+            <button type="submit" class="flex w-full items-center justify-center border border-transparent bg-rose-800 px-5 py-3 text-base font-medium text-white hover:bg-rose-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-800 rounded-lg">Notify me</button>
           </div>
         </form>
       </div>
