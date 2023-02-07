@@ -24,7 +24,7 @@
           <div class="aspect-w-1 aspect-h-1 w-full overflow-hidden bg-gray-200 xl:aspect-w-7 xl:aspect-h-8">
             <img :src="product.imageSrc" :alt="product.imageAlt" class="h-full w-full object-cover object-center group-hover:opacity-75" />
           </div>
-          <h3 class="mt-2 text-sm text-slate-400">{{ product.name }}</h3>
+          <h3 class="mt-2 text-sm text-slate-400 font-bold">{{ product.name }}</h3>
           <p class="mt-0.5 text-sm font-medium text-slate-200">{{ product.price }}</p>
         </a>
       </div>

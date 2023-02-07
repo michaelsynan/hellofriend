@@ -20,12 +20,20 @@ module.exports = {
       fontFamily: {
         sans: ["Inter", "sans-serif"],
     },
+    backgroundImage:
+    {
+      'blob': "url('@/assets/blob.svg')"
+    },
         colors: {
       'purp': {
-        DEFAULT: '#5f30e2'
+        light: '#7f59e8',
+        DEFAULT: '#5f30e2',
+        dark: '#4c26b5'
       }
     },
   },
-  plugins: [],
+  plugins: [
+
+  ],
 }
 }

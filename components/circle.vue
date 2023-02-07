@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-rose-800 w-full h-24 circle center " > ok ok ok  bloop
+    <div class="bg-rose-800 w-full h-24 circle center " > 
     </div>
 </template>
 
